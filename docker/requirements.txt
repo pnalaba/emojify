@@ -1,0 +1,8 @@
+flask
+numpy
+pandas
+emoji
+matplotlib
+sklearn
+Tensorflow
+Keras
